@@ -1,4 +1,4 @@
 mystripe
 ========
 
-Stripe Payments Integration for Laravel
+Stripe Payments Integration for Laravel. Yay!
